@@ -17,8 +17,10 @@ Il contient plusieurs pages qui montrent les elements suivent:
 
 - Exemple de webfont depuis fichier
 
-#Sources:
+Sources:
 
 Code : https://www.w3schools.com
+
 Web Fonts : http://velvetyne.fr
+
 Google Fonts : https://fonts.google.com
